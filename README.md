@@ -55,7 +55,7 @@ Use this agent to:
 - 🔍 Search Airbnb listings
 - 📝 Fetch listing details
 
-**Command:**
+**Command:** 
 ```bash
 npx -y @openbnb/mcp-server-airbnb
 ```
